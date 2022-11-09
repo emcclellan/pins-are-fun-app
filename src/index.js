@@ -7,12 +7,14 @@ import reportWebVitals from './reportWebVitals';
 import './assets/css/fontawesome-all.min.css';
 import './assets/css/main.css';
 import './assets/css/noscript.css';
+import Footer from './Components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Header /> 
     <Body />
+    <Footer />
   </React.StrictMode>
 );
 

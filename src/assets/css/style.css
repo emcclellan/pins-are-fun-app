@@ -1,5 +1,6 @@
 .tag{
     text-align: center;
+    vertical-align: auto;
 }
 
 .imgslider{
@@ -21,3 +22,8 @@
     background-image: url("images/overlay1.png"), url("../../Images/images/header.jpg");
 }
 
+.footerContent{
+    text-align:right;
+    padding-right: 25px;
+    background-image: url("images/overlay1.png"), url("../../Images/images/header.jpg");
+}
