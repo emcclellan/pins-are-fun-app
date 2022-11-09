@@ -4,6 +4,9 @@ import './index.css';
 import Header from './Components/Header';
 import Body from './Components/Body';
 import reportWebVitals from './reportWebVitals';
+import './assets/css/fontawesome-all.min.css';
+import './assets/css/main.css';
+import './assets/css/noscript.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
